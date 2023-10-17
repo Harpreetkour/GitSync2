@@ -1,0 +1,4 @@
+template-file-path: deployment-config-2.yml
+parameters: {}
+tags:
+  env: gamma
